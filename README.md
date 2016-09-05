@@ -1,2 +1,1 @@
-# sohu
-sohuTest
+# meituanStudy
